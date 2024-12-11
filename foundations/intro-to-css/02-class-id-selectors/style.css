@@ -1,0 +1,15 @@
+.Odd {
+    background-color: red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+#b {
+    font-size: 36px;
+    color: blue;
+}
+.c {
+    font-size: 24px;
+}
+#d {
+    font-size: 24px;
+    background-color: lightgreen;
+}
